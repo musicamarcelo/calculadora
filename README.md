@@ -22,5 +22,3 @@ A [link](http://example.com).
 ![Image](Image_icon.png)
 
 > Markdown uses email-style > characters for blockquoting.
-
-Inline <abbr title="Hypertext Markup Language">HTML</abbr> is supported.
